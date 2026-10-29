@@ -1,0 +1,14 @@
+# Local ROMs, saves and signing credentials
+Rom/
+.rom/
+*.gb
+*.gbc
+*.nes
+*.sav
+*.state
+*.jks
+*.keystore
+*.pem
+*.key
+.env
+.env.*
