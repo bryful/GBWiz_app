@@ -1,0 +1,13 @@
+GBWiz 0.1.1
+Release date: 2026-11-01 (Asia/Tokyo)
+Source base commit: d42904bb2e5adc946576703680e2b2b31231f418
+Source workspace: includes current uncommitted implementation changes
+Windows: x64 Release, Visual Studio / CMake, FileVersion 0.1.1
+Android: release, jp.gbwiz, versionCode 7, versionName 0.1.1
+Android minimum SDK: 26; target SDK: 35
+Android ABI: arm64-v8a, x86_64
+Android native ELF LOAD alignment: 0x4000 (16KB), both ABIs
+Android signing: existing GBWiz key, APK v2/v3
+Certificate SHA256: 516dfd24608b66dc2143be8572d0e456d90daedd2476b2c221f723423553f940
+Certificate matches GBWiz 0.1.0
+No source code, ROMs, saves, states, debug APKs, unsigned APKs or credentials included

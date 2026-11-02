@@ -1,0 +1,5 @@
+GBWiz 0.1.0
+Application ID: jp.gbwiz
+Certificate SHA-256: 516dfd24608b66dc2143be8572d0e456d90daedd2476b2c221f723423553f940
+APK signature schemes: v2, v3
+Key: dedicated GBWiz RSA 3072-bit key; private key not included

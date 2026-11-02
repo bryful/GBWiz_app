@@ -1,0 +1,35 @@
+[Gambatte] MBC1 ROM+RAM+BATTERY loaded.
+[Gambatte] rambanks: 1
+[Gambatte] rombanks: 16
+ROM: wizardrygaiden1.gb | GB
+PASS: 180 frames, video output, state round trip; mode=GB
+[Gambatte] MBC1 ROM+RAM+BATTERY loaded.
+[Gambatte] rambanks: 1
+[Gambatte] rombanks: 16
+ROM: wizardrygaiden2.gb | GB
+PASS: 180 frames, video output, state round trip; mode=GB
+[Gambatte] MBC1 ROM+RAM+BATTERY loaded.
+[Gambatte] rambanks: 4
+[Gambatte] rombanks: 32
+ROM: wizardrygaiden3.gb | GB
+PASS: 180 frames, video output, state round trip; mode=GB
+[Gambatte] MBC5 ROM+RAM+BATTERY loaded.
+[Gambatte] rambanks: 4
+[Gambatte] rombanks: 64
+ROM: WIZA1.gbc | GBC
+PASS: 180 frames, video output, state round trip; mode=GBC
+[Gambatte] MBC5 ROM+RAM+BATTERY loaded.
+[Gambatte] rambanks: 4
+[Gambatte] rombanks: 64
+ROM: wiza2.gbc | GBC
+PASS: 180 frames, video output, state round trip; mode=GBC
+[Gambatte] MBC5 ROM+RAM+BATTERY loaded.
+[Gambatte] rambanks: 4
+[Gambatte] rombanks: 64
+ROM: wiza3.gbc | GBC
+PASS: 180 frames, video output, state round trip; mode=GBC
+[Gambatte] MBC5 ROM+RAM+BATTERY loaded.
+[Gambatte] rambanks: 4
+[Gambatte] rombanks: 256
+ROM: DQ3.gbc | GBC
+PASS: 180 frames, video output, state round trip; mode=GBC

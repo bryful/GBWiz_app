@@ -1,0 +1,21 @@
+GBWiz 0.1.0 release
+Prepared: 2026-10-31 (Asia/Tokyo)
+Build input: current working tree; corresponding source distributed separately
+Baseline Git HEAD: d42904bb2e5adc946576703680e2b2b31231f418
+Windows: x64 Release; FileVersion/ProductVersion 0.1.0; numeric 0.1.0.0; prerelease flag off
+Windows CTest: 73/73 passed
+Packaged Windows smoke: 7/7 supported ROMs passed; no user save writes
+Android applicationId: jp.gbwiz
+Android versionCode: 6; versionName: 0.1.0; non-debuggable
+Android SDK: min 26 / target 35 / compile 35
+ABIs: arm64-v8a, x86_64
+Builds: assembleRelease, assembleDebug, assembleDebugAndroidTest, lintVitalRelease passed
+Signing: dedicated GBWiz key in sibling GBWiz_signing (not distributed)
+Credential storage: Windows user-bound DPAPI; signing directory ACL restricted to owner and SYSTEM
+Android signature: v2 and v3 verified; RSA 3072-bit; SHA256withRSA
+Signer certificate SHA-256: 516dfd24608b66dc2143be8572d0e456d90daedd2476b2c221f723423553f940
+ZIP alignment: 16 KB native-library page alignment checked
+Physical device: disconnected during final release preparation; signed APK startup not verified
+QA: separate-ID release build succeeded; not included in distribution
+Excluded: source code/source ZIP, ROMs, saves, states, signing keys, credentials, development/unsigned APKs
+External publishing/upload: not performed

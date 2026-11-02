@@ -1,0 +1,151 @@
+Test project C:/Users/bryfu/source/repos/GBWiz/build
+      Start 19: creation_gaiden3
+      Start 17: creation_wizardry2
+ 1/73 Test #17: creation_wizardry2 ...............   Passed   28.52 sec
+      Start 16: creation_wizardry1
+ 2/73 Test #19: creation_gaiden3 .................   Passed   33.66 sec
+      Start 18: creation_wizardry3
+ 3/73 Test #16: creation_wizardry1 ...............   Passed   31.56 sec
+      Start 48: gold_wizardry3
+ 4/73 Test #18: creation_wizardry3 ...............   Passed   34.58 sec
+      Start 46: gold_wizardry2
+ 5/73 Test #48: gold_wizardry3 ...................   Passed   28.98 sec
+      Start 44: gold_wizardry1
+ 6/73 Test #46: gold_wizardry2 ...................   Passed   33.31 sec
+      Start 45: rewards_wizardry2
+ 7/73 Test #45: rewards_wizardry2 ................   Passed   15.92 sec
+      Start 47: rewards_wizardry3
+ 8/73 Test #44: gold_wizardry1 ...................   Passed   30.38 sec
+      Start 43: rewards_wizardry1
+ 9/73 Test #47: rewards_wizardry3 ................   Passed   14.79 sec
+      Start 24: rewards_dq3
+10/73 Test #24: rewards_dq3 ......................   Passed    5.13 sec
+      Start 42: gold_gaiden3
+11/73 Test #43: rewards_wizardry1 ................   Passed   20.19 sec
+      Start 41: gold_gaiden2
+12/73 Test #42: gold_gaiden3 .....................   Passed    8.67 sec
+      Start 38: map_all_wizardry
+13/73 Test #41: gold_gaiden2 .....................   Passed    8.38 sec
+      Start 40: rewards_gaiden3
+14/73 Test #40: rewards_gaiden3 ..................   Passed    4.23 sec
+      Start 39: rewards_gaiden2
+15/73 Test #38: map_all_wizardry .................   Passed    8.40 sec
+      Start  8: party_wizardry3
+16/73 Test #39: rewards_gaiden2 ..................   Passed    4.15 sec
+      Start  5: alignment_gaiden1
+17/73 Test  #8: party_wizardry3 ..................   Passed    2.55 sec
+      Start  6: party_wizardry1
+18/73 Test  #6: party_wizardry1 ..................   Passed    2.29 sec
+      Start  7: party_wizardry2
+19/73 Test  #7: party_wizardry2 ..................   Passed    2.12 sec
+      Start 20: creation_gaiden2
+20/73 Test #20: creation_gaiden2 .................   Passed    2.94 sec
+      Start 70: spells_gaiden3_town
+21/73 Test #70: spells_gaiden3_town ..............   Passed    0.85 sec
+      Start 69: spells_gaiden2_town
+22/73 Test #69: spells_gaiden2_town ..............   Passed    0.78 sec
+      Start 68: spells_gaiden3
+23/73 Test #68: spells_gaiden3 ...................   Passed    0.82 sec
+      Start 67: spells_gaiden2
+24/73 Test #67: spells_gaiden2 ...................   Passed    0.78 sec
+      Start 37: map_gaiden1
+25/73 Test  #5: alignment_gaiden1 ................   Passed   11.24 sec
+      Start 15: party_gaiden1
+26/73 Test #37: map_gaiden1 ......................   Passed    1.11 sec
+      Start 22: rewards_gaiden1
+27/73 Test #15: party_gaiden1 ....................   Passed    2.28 sec
+      Start 21: creation_gaiden1
+28/73 Test #22: rewards_gaiden1 ..................   Passed    2.22 sec
+      Start 32: turbo_wizardry3
+29/73 Test #32: turbo_wizardry3 ..................   Passed    1.08 sec
+      Start 31: turbo_wizardry2
+30/73 Test #21: creation_gaiden1 .................   Passed    2.96 sec
+      Start 30: turbo_wizardry1
+31/73 Test #31: turbo_wizardry2 ..................   Passed    1.03 sec
+      Start 23: turbo_dq3
+32/73 Test #30: turbo_wizardry1 ..................   Passed    1.02 sec
+      Start 10: mp_global_gaiden2
+33/73 Test #23: turbo_dq3 ........................   Passed    1.07 sec
+      Start  4: spell_contexts_gaiden1
+34/73 Test #10: mp_global_gaiden2 ................   Passed    0.37 sec
+      Start  1: boot_wizardry1
+35/73 Test  #1: boot_wizardry1 ...................   Passed    0.27 sec
+      Start  3: boot_wizardry3
+36/73 Test  #3: boot_wizardry3 ...................   Passed    0.25 sec
+      Start  2: boot_wizardry2
+37/73 Test  #2: boot_wizardry2 ...................   Passed    0.24 sec
+      Start 14: mp_global_gaiden1
+38/73 Test  #4: spell_contexts_gaiden1 ...........   Passed    0.97 sec
+      Start 12: spells_gaiden1
+39/73 Test #14: mp_global_gaiden1 ................   Passed    0.37 sec
+      Start 27: turbo
+40/73 Test #12: spells_gaiden1 ...................   Passed    0.69 sec
+      Start 72: names_wizardry2
+41/73 Test #72: names_wizardry2 ..................   Passed    0.04 sec
+      Start 60: spells_wizardry2_inn-party
+42/73 Test #60: spells_wizardry2_inn-party .......   Passed    0.06 sec
+      Start 29: turbo_gaiden3
+43/73 Test #29: turbo_gaiden3 ....................   Passed    0.93 sec
+      Start 36: desktop
+44/73 Test #27: turbo ............................   Passed    1.43 sec
+      Start 71: names_wizardry1
+45/73 Test #71: names_wizardry1 ..................   Passed    0.02 sec
+      Start 66: spells_wizardry3_inn-room
+46/73 Test #66: spells_wizardry3_inn-room ........   Passed    0.03 sec
+      Start 58: spells_wizardry2_tavern
+47/73 Test #58: spells_wizardry2_tavern ..........   Passed    0.03 sec
+      Start 57: spells_wizardry2_town
+48/73 Test #57: spells_wizardry2_town ............   Passed    0.03 sec
+      Start 61: spells_wizardry2_inn-room
+49/73 Test #61: spells_wizardry2_inn-room ........   Passed    0.03 sec
+      Start 64: spells_wizardry3_tavern-list
+50/73 Test #64: spells_wizardry3_tavern-list .....   Passed    0.03 sec
+      Start 62: spells_wizardry3_town
+51/73 Test #62: spells_wizardry3_town ............   Passed    0.03 sec
+      Start 28: turbo_gaiden2
+52/73 Test #36: desktop ..........................   Passed    0.29 sec
+      Start 59: spells_wizardry2_tavern-list
+53/73 Test #59: spells_wizardry2_tavern-list .....   Passed    0.03 sec
+      Start 54: spells_wizardry1_inn-room
+54/73 Test #54: spells_wizardry1_inn-room ........   Passed    0.03 sec
+      Start 11: party_gaiden3
+55/73 Test #11: party_gaiden3 ....................   Passed    0.09 sec
+      Start 65: spells_wizardry3_inn-party
+56/73 Test #65: spells_wizardry3_inn-party .......   Passed    0.03 sec
+      Start 63: spells_wizardry3_tavern
+57/73 Test #63: spells_wizardry3_tavern ..........   Passed    0.03 sec
+      Start 51: spells_wizardry1_tavern
+58/73 Test #51: spells_wizardry1_tavern ..........   Passed    0.03 sec
+      Start 50: spells_wizardry1_town
+59/73 Test #50: spells_wizardry1_town ............   Passed    0.03 sec
+      Start 53: spells_wizardry1_inn-party
+60/73 Test #53: spells_wizardry1_inn-party .......   Passed    0.03 sec
+      Start 52: spells_wizardry1_tavern-list
+61/73 Test #52: spells_wizardry1_tavern-list .....   Passed    0.03 sec
+      Start 73: names_wizardry3
+62/73 Test #73: names_wizardry3 ..................   Passed    0.02 sec
+      Start 49: spells_wizardry1
+63/73 Test #49: spells_wizardry1 .................   Passed    0.03 sec
+      Start 55: spells_wizardry2
+64/73 Test #55: spells_wizardry2 .................   Passed    0.03 sec
+      Start 56: spells_wizardry3
+65/73 Test #56: spells_wizardry3 .................   Passed    0.03 sec
+      Start 26: turbo_state
+66/73 Test #26: turbo_state ......................   Passed    0.27 sec
+      Start  9: party_gaiden2
+67/73 Test  #9: party_gaiden2 ....................   Passed    0.05 sec
+      Start 33: support
+68/73 Test #28: turbo_gaiden2 ....................   Passed    0.86 sec
+      Start 25: turbo_state_dq3
+69/73 Test #25: turbo_state_dq3 ..................   Passed    0.19 sec
+      Start 13: mp_gaiden1
+70/73 Test #13: mp_gaiden1 .......................   Passed    0.03 sec
+      Start 34: game_lifecycle
+71/73 Test #33: support ..........................   Passed    0.33 sec
+      Start 35: video
+72/73 Test #34: game_lifecycle ...................   Passed    0.08 sec
+73/73 Test #35: video ............................   Passed    0.04 sec
+
+100% tests passed, 0 tests failed out of 73
+
+Total Test time (real) = 178.26 sec
