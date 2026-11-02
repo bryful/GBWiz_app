@@ -82,4 +82,6 @@ Windowsの通常セーブ・設定・ステートセーブは、`%APPDATA%\GBWiz
 
 同梱ソフトウェアのライセンスは[配布フォルダー](./0.1.2/)の`COPYING.txt`、`SDL2-LICENSE.txt`、`blipper-LICENSE.txt`をご覧ください。
 
-ソースコードは別途配布します。アプリの配布物にソースZIPは同梱しません。
+GBWiz独自部分はMITライセンスです。組み込まれた外部ソフトウェアには、それぞれのライセンスが適用されます。
+
+[0.1.2の対応ソース](https://github.com/bryful/GBWiz/tree/v0.1.2)・[ソースZIP](https://github.com/bryful/GBWiz/archive/refs/tags/v0.1.2.zip)を別途取得できます。アプリの配布物にソースZIPは同梱しません。

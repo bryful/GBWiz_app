@@ -1,7 +1,9 @@
 GBWiz 0.1.2
 Release date: 2026-11-02 (Asia/Tokyo)
-Source base commit: d42904bb2e5adc946576703680e2b2b31231f418
-Source workspace: includes current uncommitted implementation changes
+Source commit: 7e196ccb393bf27c3681ed66d5748fb525c8d784
+Source tag: v0.1.2
+Corresponding source: https://github.com/bryful/GBWiz/tree/v0.1.2
+Source tag includes licensing notices and privacy cleanup; application logic matches the release build
 Windows: x64 Release, Visual Studio / CMake, FileVersion 0.1.2
 Android: release, jp.gbwiz, versionCode 8, versionName 0.1.2
 Android minimum SDK: 26; target SDK: 35

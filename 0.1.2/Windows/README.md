@@ -114,4 +114,6 @@ MP消費なしを外伝III・GBC版Wizardry I〜IIIへ追加しました。外�
 
 不具合は[報告ページ](https://github.com/bryful/GBWiz_app/issues)へ、バージョン・端末・ゲーム名・操作手順と症状をお知らせください。ROMファイルは添付しないでください。
 
-ライセンスは1つ上のフォルダーの`COPYING.txt`、`SDL2-LICENSE.txt`、`blipper-LICENSE.txt`をご覧ください。
+GBWiz独自部分はMITライセンスです。アプリに含まれる外部ソフトウェアには、それぞれのライセンスが適用されます。詳しくは1つ上のフォルダーの`MIT-LICENSE.txt`、`THIRD-PARTY-NOTICES.md`、`COPYING.txt`、`SDL2-LICENSE.txt`、`blipper-LICENSE.txt`をご覧ください。
+
+0.1.2のソースは[こちら](https://github.com/bryful/GBWiz/tree/v0.1.2)から取得できます。[ソースZIPをダウンロード](https://github.com/bryful/GBWiz/archive/refs/tags/v0.1.2.zip)することもできます。

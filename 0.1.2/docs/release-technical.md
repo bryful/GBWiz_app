@@ -26,3 +26,9 @@ Windows全103テストと7作品の配布EXEスモークを確認。Pixel 9aの�
 全呪文を画面から選ぶ手動プレイ、全イベント・長時間プレイ、実物コントローラーの網羅確認は残っています。Androidの初期ROM場所はDocuments/GBWiz/romで、開発要件のDocuments/NesDQとの整合は残件です。
 
 詳細は配布直下のVALIDATION.md、BUILD-INFO.txtと、docs内のmp-support.md、dungeon-map.md、reward-support.md、各作品の解析資料を参照してください。
+
+## ライセンスと対応ソース
+
+GBWiz独自部分はMIT、GambatteはGPLv2、SDL2はzlib、blipperはMITです。Gambatteをリンクした配布アプリはGPLv2の条件にも従います。詳細は配布直下のTHIRD-PARTY-NOTICES.mdと各ライセンス本文を参照してください。
+
+0.1.2の対応ソースは https://github.com/bryful/GBWiz/tree/v0.1.2 、別配布のソースZIPは https://github.com/bryful/GBWiz/archive/refs/tags/v0.1.2.zip です。ビルド手順と必要な第三者ソース・ライブラリはソース側に収録しています。
