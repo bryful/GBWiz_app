@@ -1,6 +1,6 @@
 GBWiz 0.1.2
 Release date: 2026-11-02 (Asia/Tokyo)
-Source commit: 7e196ccb393bf27c3681ed66d5748fb525c8d784
+Source commit: 4381a9251a1549c04fad42fd52798958df2ad34c
 Source tag: v0.1.2
 Corresponding source: https://github.com/bryful/GBWiz/tree/v0.1.2
 Source tag includes licensing notices and privacy cleanup; application logic matches the release build
