@@ -1,0 +1,9 @@
+GBWiz 0.1.4
+Release date: 2026-11-15 (Asia/Tokyo)
+Source base commit: dd4e07c507293366baa0950eca9cd3ea1e630de4
+Built with local character-editing and release changes
+Windows: x64 Release, FileVersion 0.1.4
+Android: release, jp.gbwiz, versionCode 10, versionName 0.1.4
+Android ABI: arm64-v8a, x86_64; minimum SDK 26; target SDK 35
+Android APK and ELF LOAD alignment: 16KB
+Android signing: 0.1.3 GBWiz certificate, APK v2/v3
