@@ -1,0 +1,9 @@
+GBWiz 0.1.5
+Release date: 2026-11-19 (Asia/Tokyo)
+Source base commit: f7ebeb6a986afecda5ffbcedf322a63920658461
+Built with local exploration-map and release changes (uncommitted)
+Windows: x64 Release, FileVersion 0.1.5
+Android: release, jp.gbwiz, versionCode 11, versionName 0.1.5
+Android ABI: arm64-v8a, x86_64; minimum SDK 26; target SDK 35
+Android APK and ELF LOAD alignment: 16KB
+Android signing: same certificate as 0.1.4, APK v2/v3
